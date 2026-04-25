@@ -27,11 +27,11 @@
         0,
         0
       ],
-      "id": "08a1ea53-9ee4-4d4b-899e-5de8e4e1bf86",
+      "id": "",
       "name": "Google Drive Trigger",
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "vcvkeKMHLD9VG29f",
+          "id": "",
           "name": "Google Drive account"
         }
       }
@@ -52,11 +52,11 @@
         208,
         0
       ],
-      "id": "05f2ad3d-1c3a-44aa-90d7-dc3d44d4262b",
+      "id": "",
       "name": "Download file",
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "7zPCRDhPxbML6BJM",
+          "id": "",
           "name": "Google Drive account"
         }
       }
@@ -80,11 +80,11 @@
         416,
         0
       ],
-      "id": "bbb1031d-332f-470d-92ac-3688d516458e",
+      "id": "",
       "name": "Pinecone Vector Store",
       "credentials": {
         "pineconeApi": {
-          "id": "JB8yh4fGnkPMLjXg",
+          "id": "",
           "name": "Pinecone account"
         }
       }
@@ -101,7 +101,7 @@
         560,
         224
       ],
-      "id": "4340d631-a061-4123-8e9f-308e7160397f",
+      "id": "",
       "name": "Default Data Loader"
     },
     {
@@ -115,7 +115,7 @@
         560,
         432
       ],
-      "id": "a51e1d95-9fa4-49f9-960c-31f792fa11b3",
+      "id": "",
       "name": "Recursive Character Text Splitter"
     },
     {
